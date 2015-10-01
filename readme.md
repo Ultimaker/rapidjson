@@ -29,6 +29,8 @@ Copyright (C) 2015 THL A29 Limited, a Tencent company, and Milo Yip. All rights 
 
 ## Introduction
 
+**This fork of RapidJSON fixes memory allocation on ARM devices.**
+
 RapidJSON is a JSON parser and generator for C++. It was inspired by [RapidXml](http://rapidxml.sourceforge.net/).
 
 * RapidJSON is small but complete. It supports both SAX and DOM style API. The SAX parser is only a half thousand lines of code.
